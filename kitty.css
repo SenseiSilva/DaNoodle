@@ -23,7 +23,7 @@
 
 @media screen and (max-width: 820px) {
    img {
-      content:url(images/kitten-small.png);
+      content:url(https://user-images.githubusercontent.com/25018896/30411171-3cbe376e-98c4-11e7-9ce3-9a20debd884c.png);
    }
 	 body {
 	    background-image: url("https://media.tenor.com/images/f72dfd15ebe72fedd7d3aa10359f211b/tenor.gif");
@@ -45,7 +45,7 @@
 	visibility: visible;
 	}
   .hidden {
-        content:url(images/kitten-small.png);
+        content:url(https://user-images.githubusercontent.com/25018896/30411171-3cbe376e-98c4-11e7-9ce3-9a20debd884c.png);
   }
 	body {
 	    background-image: url("https://media.tenor.com/images/6d0cd88338f8c7a484703631c307ce86/tenor.gif");
