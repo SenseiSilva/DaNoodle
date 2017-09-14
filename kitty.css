@@ -7,23 +7,23 @@
 
 @media screen and (min-width: 1081px) {
     img {
-        content:url(https://user-images.githubusercontent.com/25018896/30411197-633b2b04-98c4-11e7-8f09-62d5a0d1081e.png);
+        content:url(images/kitten-large.png);
     }
 	
 }
 
 @media screen and (max-width: 1080px) {
   img {
-      content:url(https://user-images.githubusercontent.com/25018896/30411191-5c4621aa-98c4-11e7-93dc-9547289d692d.png);
+      content:url(images/kitten-medium.png);
   }
 	body {
 	    background-color: lightblue;
 	}
 }
 
-@media screen and (max-width: 920px) {
+@media screen and (max-width: 820px) {
    img {
-      content:url(https://user-images.githubusercontent.com/25018896/30411171-3cbe376e-98c4-11e7-9ce3-9a20debd884c.png);
+      content:url(images/kitten-small.png);
    }
 	 body {
 	    background-image: url("https://media.tenor.com/images/f72dfd15ebe72fedd7d3aa10359f211b/tenor.gif");
@@ -32,7 +32,7 @@
 
 @media screen and (max-width: 600px) {
   img {
-      content:url(https://user-images.githubusercontent.com/25018896/30411171-3cbe376e-98c4-11e7-9ce3-9a20debd884c.png);
+      content:url(images/kittyloaf.gif);
   }
 	body {
 	    background-image: url("https://media.tenor.com/images/6d0cd88338f8c7a484703631c307ce86/tenor.gif");
@@ -45,10 +45,9 @@
 	visibility: visible;
 	}
   .hidden {
-        content:url(https://user-images.githubusercontent.com/25018896/30411186-519a8de0-98c4-11e7-9183-750efa18dc36.gif);
+        content:url(images/kitten-small.png);
   }
 	body {
-	    background-image: url("http://dvcportal.weebly.com/uploads/4/5/1/6/45163595/5366252.jpg");
+	    background-image: url("https://media.tenor.com/images/6d0cd88338f8c7a484703631c307ce86/tenor.gif");
 	}
 }
-
