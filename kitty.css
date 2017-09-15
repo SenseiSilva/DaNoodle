@@ -38,9 +38,9 @@
   img {
       content:url(https://user-images.githubusercontent.com/25018896/30411186-519a8de0-98c4-11e7-9183-750efa18dc36.gif);
   }
-	body {
-	    background-color: red;
-	}
+  body {
+       background-image: url("http://img36.laughinggif.com/pic/HTTP3ZpZ25ldHRlMi53aWtpYS5ub2Nvb2tpZS5uZXQvb25lLW5pZ2h0LWF0LWZsdW1wdHlzL2ltYWdlcy8xLzE3L1N0YXRpYy5naWYvcmV2aXNpb24vbGF0ZXN0P2NiPTIwMTUwNzIzMDIwMTA1.gif");
+  }
 }
 
 @media screen and (max-width: 600px) {
